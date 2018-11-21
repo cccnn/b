@@ -32,10 +32,10 @@ body{background-color: #eee;padding: 0;min-width: 300px; max-width: 667px;margin
 .H10{ height:10px; display:block; overflow:hidden; clear:both;}
 .H20{ height:20px; display:block; overflow:hidden; clear:both;}
 .H30{ height:30px; display:block; overflow:hidden; clear:both;}
-.H40{ height:40px; display:block; overflow:hidden; clear:both;}
+.H40{ height:3px; display:block; overflow:hidden; clear:both;}
 .H50{ height:50px; display:block; overflow:hidden; clear:both;}
 /* 登录按钮 */
-.main{padding-top:1.2rem;}
+.main{padding-top:0.7rem;}
 .main .bg{background-color:#fafafa;border-width:1px;border-style:solid;border-color:#fafafa;}
 .main span{display:block;height:100%;}
 .main .btn{background-color:#44b549;color:white;font-size:.9rem;text-align:center;display:block;width:90%;border-radius:.25rem;margin-top:1rem;line-height:2.25rem;margin: 0 auto;}
